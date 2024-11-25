@@ -1,5 +1,5 @@
 <h1>Ecommerce Website</h1><br>
-<p>This is a simple ecommerce web application built using React.js.
+<p>This is a simple ecommerce web application built using React.js, vite and tailwind.
 The app includes features like product listing, product details, cart functionality, and a search bar.</p>
 
 <h2>Project Description</h2>
@@ -14,12 +14,14 @@ The app includes features like product listing, product details, cart functional
 <h2>Setup and Run the Application</h2>
 <p>Follow these steps to set up and run the application locally:</p>
 <h3>Prerequisites</h3>
-<p> **Node.js** installed </p>
-<p>A code editor like **VS Code**</p>
+<ul>
+    <li>Node.js  installed</li>
+    <li>A code editor like VS Code</li>
+</ul>
 <h3>Steps</h3>
 <ol>
     <li>
-        **Clone the Repository**:
+        Clone the Repository:
         ```bash
        git clone https://github.com/DamaniSahu/Ecommerce-Website.git
     </li>
@@ -31,11 +33,11 @@ The app includes features like product listing, product details, cart functional
         npm install
     </li>
     <li>Run the Development Server:
-    npm start
+      npm run dev
     </li>
     <li>
         Access the Application:
-        Open your browser and navigate to: http://localhost:3000
+        Open your browser and navigate to the URL shown in the terminal (usually http://localhost:5173).
     </li>
 </ol>
 
