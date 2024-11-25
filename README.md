@@ -13,6 +13,31 @@ The app includes features like product listing, product details, cart functional
 </ul>
 <h2>Setup and Run the Application</h2>
 <p>Follow these steps to set up and run the application locally:</p>
+<h3>Prerequisites</h3>
+<p> **Node.js** installed </p>
+<p>A code editor like **VS Code**</p>
+<h3>Steps</h3>
+<ol>
+    <li>
+        **Clone the Repository**:
+        ```bash
+       git clone https://github.com/DamaniSahu/Ecommerce-Website.git
+    </li>
+    <li>Navigate to the Project Directory:
+    cd Ecommerce-Website
+    </li>
+    <li>
+        Install Dependencies:
+        npm install
+    </li>
+    <li>Run the Development Server:
+    npm start
+    </li>
+    <li>
+        Access the Application:
+        Open your browser and navigate to: http://localhost:3000
+    </li>
+</ol>
 
    
     
