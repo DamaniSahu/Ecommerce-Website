@@ -1,0 +1,50 @@
+[
+    { "id": 1, 
+    "img": "/Img/a.jpg", 
+    "name": "Skin Perfect Cream", 
+    "description": "This is Skin Perfect Cream.", 
+    "price": 90 },
+
+    { "id": 2, 
+    "img": "/Img/b.jpg", 
+    "name": "Eyebrow Power", 
+    "description": "This is Eyebrow Power.",
+    "price": 144 },
+
+    { "id": 3, 
+    "img": "/Img/c.jpg", 
+    "name": "Skin Britning Cream", 
+    "description": "This is Skin Britning Cream.", 
+    "price": 200 },
+
+    { "id": 4, 
+    "img": "/Img/d.jpg", 
+    "name": "Body Wash", 
+    "description": "This is Body Wash.", 
+    "price": 250 },
+
+    { "id": 5, 
+    "img": "/Img/e.jpg", 
+    "name": "Face Serum", 
+    "description": "This is Face Serum.", 
+    "price": 200 },
+
+    { "id": 6, 
+    "img": "/Img/f.jpg", 
+    "name": "Nail Art", 
+    "description": "This is Nail Art.", 
+    "price": 355 },
+
+    { "id": 7, 
+    "img": "/Img/g.jpeg", 
+    "name": "Face Wash", 
+    "description": "This is Face Wash", 
+    "price": 200 },
+
+    { "id": 8, 
+    "img": "/Img/h.jpg", 
+    "name": "Kajal", 
+    "description": "This is Kajal.", 
+    "price": 200 }
+ ]
+  
